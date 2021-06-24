@@ -1,0 +1,79 @@
+<resources>
+    <string name="app_name"> Workout </string>
+    <string name="email">Email</string>
+    <string name="new_user_register">New User? Register</string>
+    <string name="name">Name</string>
+    <string name="phone_number">Phone number</string>
+    <string name="gmail">Gmail</string>
+    <string name="password">Password</string>
+    <string name="confrom_password">Confrom Password</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="mail">Mail</string>
+    <string name="enter_the_name">Enter the Name</string>
+    <string name="number">Number</string>
+    <string name="enter_the_number">Enter the Number</string>
+    <string name="enter_the_password">Enter the Password</string>
+    <string name="conform_password">Conform Password</string>
+    <string name="enter_the_conform_password">Enter the Conform Password</string>
+    <string name="gender">Gender</string>
+    <string name="femail">Femail</string>
+    <string name="age">Age</string>
+    <string name="registration">Registration</string>
+    <string name="have_an_allready_account_login_here">have an allready account? Login here</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="sing_in_to_continue">Sing In to continue</string>
+    <string name="enter_the_email">Enter the Email</string>
+    <string name="forget_password">Forget Password?</string>
+    <string name="don_t_have_an_account_register">Don\'t have an account? Register </string>
+    <string name="metric_units">METRIC UNITS</string>
+    <string name="us_units">US UNITS</string>
+    <string name="weight_in_kg">WEIGHT (in kg)</string>
+    <string name="height_in_cm">HEIGHT (in cm)</string>
+    <string name="weight_in_lbs">WEIGHT (in lbs)</string>
+    <string name="feet">Feet</string>
+    <string name="inch">Inch</string>
+    <string name="your_bmi">YOUR BMI</string>
+    <string name="_15_00">15.00</string>
+    <string name="calculate">CALCULATE</string>
+    <string name="are_you_a_heart_patient">Are you a heart patient</string>
+    <string name="yes">yes</string>
+    <string name="no">No</string>
+    <string name="click">Click</string>
+    <string name="get_ready_for">GET READY FOR</string>
+    <string name="upcoming_exercise">UPCOMING EXERCISE:</string>
+    <string name="exercise_image">exercise image</string>
+    <string name="exercise_name">Exercise Name</string>
+    <string name="end">END</string>
+    <string name="done_image">done image</string>
+    <string name="congratulations">Congratulations!</string>
+    <string name="you_have_finished_the_workout">You have finished the workout!</string>
+    <string name="finish">FINISH</string>
+    <string name="no_data_available">NO DATA AVAILABLE!</string>
+    <string name="cover_image">cover image</string>
+    <string name="start">START</string>
+    <string name="bmi">BMI</string>
+    <string name="calculator">Calculator</string>
+    <string name="history">History</string>
+    <string name="are_you_sure">Are you sure?</string>
+    <string name="are_you_a_heart_patient_if_you_are_a_heart_patient_click_on_yes">Are you a heart patient ? If you are a heart patient click on HEART EXERCISE</string>
+    <string name="next">Next</string>
+    <string name="skip">Skip</string>
+
+    <string name="slide_1_title">Workout</string>
+    <string name="slide_1_desc">Workout eat well be patient your  body will reward you</string>
+
+    <string name="slide_2_title">Exercise</string>
+    <string name="slide_2_desc">Exercise not only change your body it changes your mind your attitude and your mood</string>
+
+    <string name="slide_3_title">Great Discounts</string>
+    <string name="slide_3_desc">The pain you feel today will be the strange you feel tomorrow</string>
+
+    <string name="slide_4_title">World Travel</string>
+    <string name="slide_4_desc">Take care of your body it\'s the only place you have to live</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+
+
+</resources>
