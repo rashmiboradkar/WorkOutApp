@@ -18,6 +18,11 @@ class FinishActivity : AppCompatActivity() {
         if(actionBar != null){
             actionBar.setDisplayHomeAsUpEnabled(true)//set back button
         }
+//         priyanka commit here progress
+        tvbtnProgress.setOnClickListener{
+            val intent = Intent(this,Progress::class.java)
+            startActivity(intent)
+        }
 
         //set the back btn on toolbar
         toolbar_finish_activity.setNavigationOnClickListener {
